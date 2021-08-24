@@ -1,2 +1,2 @@
-# -Sparks-bank--glenn
+# Sparks Bank
 A Web Banking System used for making transactions .
